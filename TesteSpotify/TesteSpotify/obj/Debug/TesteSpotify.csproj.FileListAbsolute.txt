@@ -1,0 +1,6 @@
+C:\Users\Servidor01\Documents\POOIII\TesteSpotify\TesteSpotify\bin\Debug\TesteSpotify.exe.config
+C:\Users\Servidor01\Documents\POOIII\TesteSpotify\TesteSpotify\obj\Debug\TesteSpotify.csprojResolveAssemblyReference.cache
+C:\Users\Servidor01\Documents\POOIII\TesteSpotify\TesteSpotify\bin\Debug\TesteSpotify.exe
+C:\Users\Servidor01\Documents\POOIII\TesteSpotify\TesteSpotify\bin\Debug\TesteSpotify.pdb
+C:\Users\Servidor01\Documents\POOIII\TesteSpotify\TesteSpotify\obj\Debug\TesteSpotify.exe
+C:\Users\Servidor01\Documents\POOIII\TesteSpotify\TesteSpotify\obj\Debug\TesteSpotify.pdb
